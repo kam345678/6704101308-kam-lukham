@@ -3,5 +3,5 @@
 </template>
 
 <script setup>
-// fist commit
+//Initialize the project
 </script>
